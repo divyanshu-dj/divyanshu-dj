@@ -54,27 +54,19 @@
   Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td>
+      <img width="350" src="https://github-readme-stats.vercel.app/api?username=divyanshu-dj&show_icons=true&theme=radical&line_height=27" />
+      <br/>
+      <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-dj&show_icons=true&locale=en&layout=compact&theme=radical" />
+    </td>
+    <td>
+      <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-dj&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Stats Card and Streaks stacked -->
-  <div style="display: inline-block; vertical-align: top;">
-
-   <img width="350" src="https://github-readme-stats.vercel.app/api?username=divyanshu-dj&show_icons=true&theme=radical&line_height=27" />
-
-   <br/>
-
-   <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-dj&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-
-  </div>
-
-  <!-- Languages card on the left -->
-  <div style="display: inline-block; margin-left: 20px; vertical-align: top;">
-
-   <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-dj&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" />
-
-  </div>
-
-</div>
 
 
 ---

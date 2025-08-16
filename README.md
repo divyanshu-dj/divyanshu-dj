@@ -59,18 +59,18 @@
   <!-- Stats Card and Streaks stacked -->
   <div style="display: inline-block; vertical-align: top;">
 
-   <img src="https://github-readme-stats.vercel.app/api?username=divyanshu-dj&show_icons=true&theme=radical&line_height=27" />
+   <img width="350" src="https://github-readme-stats.vercel.app/api?username=divyanshu-dj&show_icons=true&theme=radical&line_height=27" />
 
    <br/>
 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-dj&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+   <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-dj&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 
   </div>
 
   <!-- Languages card on the left -->
   <div style="display: inline-block; margin-left: 20px; vertical-align: top;">
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-dj&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" />
+   <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-dj&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" />
 
   </div>
 

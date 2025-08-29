@@ -59,7 +59,7 @@
     <td>
       <img width="350" src="https://github-readme-stats.vercel.app/api?username=divyanshu-dj&show_icons=true&theme=radical&line_height=27" />
       <br/>
-      <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-dj&show_icons=true&locale=en&layout=compact&theme=radical" />
+      <img width="350" src="https://streak-stats.demolab.com?user=divyanshu-dj&theme=dark" />
     </td>
     <td>
       <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-dj&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" />

@@ -1,6 +1,6 @@
 <p align="center">
  
-<img src="https://raw.githubusercontent.com/divyanshu-dj/divyanshu-dj/main/image/ReadmeImage.png" width="600" />
+<img src="https://raw.githubusercontent.com/divyanshu-dj/divyanshu-dj/main/image/ReadmeImage.png" />
 </p align="center">
 
  <p align="left"> 

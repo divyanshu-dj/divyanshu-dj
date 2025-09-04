@@ -1,10 +1,10 @@
 <p align="center">
  
-<img src="/image/ReadmeImage.png" />
+<img src="https://raw.githubusercontent.com/divyanshu-dj/divyanshu-dj/main/image/ReadmeImage.png" width="600" />
 </p align="center">
 
  <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=divyanshu-dj&label=Profile%20views&color=0e75b6&style=flat" alt="farhan7479" /> 
+ <img src="https://komarev.com/ghpvc/?username=divyanshu-dj&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu-dj" /> 
  </p>
 
 <div>
